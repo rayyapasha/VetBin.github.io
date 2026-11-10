@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Remix VetBin - Peta Tong Sampah Kampus \u0026 Admin Dashboard",
+  "description": "Platform peta tong sampah kampus cerdas, panduan pilah AI, laporan kondisi tong, rute petugas kebersihan, dan dashboard pengelola kampus sesuai desain Figma.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
